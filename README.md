@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Ai**
 
-- 📫 How to reach mes **slambergamer@gmail.com**
+- 📫 How to reach me **slambergamer@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/faiz-fauzi-b82a19142/](https://www.linkedin.com/in/faiz-fauzi-b82a19142/)
 
