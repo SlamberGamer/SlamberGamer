@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🍬, I'm Faiz Fauzi</h1>
 <h3 align="center">Malaysian tinkerer with a passion for tinkering. I've completed projects in automation, instrumentation, GUI design, and IoT. I am currently expanding my knowledge in the field of artificial intelligence. I'm also experienced in PCB design and electronic circuit analysis experience with EagleCad and LTSPICE. I am an experienced debugger in Electronic Analysis and can analyse data using a variety of measuring tools. Self-taught programmer (Python) and 3D designer (Fusion360) skills that have always come in handy in my day-to-day life and my career. A team player with strong leadership qualities and the ability to think ahead and beyond the scope of the job in order to achieve the best results. I am currently enrolled in a part-time degree programme through UNiMAP.</h3>
 
-- 🌱 I’m currently learning **Python and Ai**
+- 🌱 I’m currently learning **Python, Ai, IOT, Firebase and Flutter**
 
 - 📫 How to reach me **slambergamer@gmail.com**
 
