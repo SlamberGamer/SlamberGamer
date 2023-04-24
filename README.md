@@ -4,13 +4,11 @@
 
 As a self-taught Python programmer and 3D designer using Fusion360, I've found these skills invaluable in both my personal and professional life. I pride myself on being a team player with strong leadership qualities, always striving to think ahead and beyond the scope of the task to achieve the best results. I'm also enrolled in a part-time degree program at UNiMAP.</h3>
 
-
 - 🌱  Currently exploring: Python, AI, IoT, Firebase, and Flutter
 
 - 📫  Reach me at: slambergamer@gmail.com
 
 - 📄 Check out my experiences on Linked: [https://www.linkedin.com/in/faiz-fauzi-b82a19142/](https://www.linkedin.com/in/faiz-fauzi-b82a19142/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
