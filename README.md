@@ -8,7 +8,7 @@ As a self-taught Python programmer and 3D designer using Fusion360, I've found t
 
 - 📫  Reach me at: slambergamer@gmail.com
 
-- 📄 Check out my experiences on Linked: [https://www.linkedin.com/in/faiz-fauzi-b82a19142/](https://www.linkedin.com/in/faiz-fauzi-b82a19142/)
+- 📄 Check out my experiences on Linked: [https://www.linkedin.com/in/faiz-fauzi-b82a19142/](https://www.linkedin.com/in/faizfauzi91/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
