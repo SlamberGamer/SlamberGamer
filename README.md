@@ -11,7 +11,7 @@
 
 ### `> Hardware Engineer · PCB Designer · Embedded Systems · Maker`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=10%2B+years+in+hardware+%26+electronics+engineering;PCB+Design+%7C+Failure+Analysis+%7C+Embedded+Systems;High-power+DC+plasma+supplies+for+semiconductor+fabs;MSc+thesis%3A+FPGA-based+RIS+panel+on+Zynq-7000;Building+at+Faiz+Lab+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=10%2B+years+in+hardware+%26+electronics+engineering;PCB+Design+%7C+Failure+Analysis+%7C+Embedded+Systems;Failure+Analysis+Engineer+%40+Comet+Plasma+Control+Technologies;MSc+thesis%3A+FPGA-based+RIS+panel+on+Zynq-7000;Building+at+Faiz+Lab+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,10 +30,9 @@
 name        : Faiz Fauzi
 alias       : SlamberGamer
 location    : Penang, Malaysia 🇲🇾
-role        : Hardware & Electronics Engineer (SME, PCB & System Design)
-company     : Advanced Energy
-focus       : High-power DC plasma power supplies for semiconductor manufacturing
-prev        : [ Intel, Keysight Technologies, Flex (Cisco), Whizz Systems ]
+role        : Failure Analysis Engineer
+company     : Comet Plasma Control Technologies
+prev        : [ Advanced Energy, Keysight Technologies, Flex (Cisco), Intel, Whizz Systems ]
 education   : MSc Electronics Engineering @ UniMAP (in progress)
 thesis      : FPGA-based Reconfigurable Intelligent Surface (RIS) panel, Zynq-7000 SoC
 side_ops    : Faiz Lab (faizlabs.site) — solo embedded & PCB engineering practice
@@ -132,7 +131,9 @@ open_to     : Consulting · Collaboration · Senior Hardware Roles
 ## 🧰 `career.timeline`
 
 ```
-2023 → NOW   Advanced Energy          ████████████  PCB & Systems Design SME
+2026 → NOW   Comet PCT                ██████████████  Failure Analysis Engineer
+    ↑
+2023 → 2026  Advanced Energy          ████████████  PCB & Systems Design SME
     ↑
 2021 → 2023  Keysight Technologies    ██████████    Hardware Design & Validation
     ↑
